@@ -1,0 +1,19 @@
+button.delete {
+  outline: none;
+  border: 1px solid red;
+  color: red;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: white;
+  min-width: 30px;
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+button.delete:hover {
+  background-color: lightcoral;
+  color: white;
+}
